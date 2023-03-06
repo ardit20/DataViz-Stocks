@@ -1,4 +1,4 @@
-## Tech Stocks Intereactive Data Viz App
+# Tech Stocks Intereactive Data Viz App
 
 This Python code visualizes the adjusted close prices of several popular tech stocks including Apple (AAPL), Amazon (AMZN), Google (GOOGL) etc.
 
